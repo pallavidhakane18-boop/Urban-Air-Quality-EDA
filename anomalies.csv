@@ -1,0 +1,1 @@
+City,Datetime,PM2.5,PM10,NO,NO2,NOx,NH3,CO,SO2,O3,Benzene,Toluene,Xylene,AQI,AQI_Bucket,year,month,day,weekday,is_weekend,AQI_7day_MA,PM25_PM10_ratio,City_Health_Index,AQI_7d,AQI_30d,AQI_z

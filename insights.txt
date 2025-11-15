@@ -1,0 +1,5 @@
+1️⃣ Top polluted cities identified using average AQI.
+2️⃣ Correlation shows PM2.5 & AQI strongly linked.
+3️⃣ Rolling averages reveal gradual air quality improvement in some cities.
+4️⃣ Clustering divided cities into clean, moderate & high-pollution zones.
+5️⃣ All visuals saved as PNG charts for report/LinkedIn post.
